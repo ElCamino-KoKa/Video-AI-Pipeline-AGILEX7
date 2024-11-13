@@ -1,6 +1,6 @@
-# Video-AI-Pipeline-AGILEX7
+# Contents for Repository Video-AI-Pipeline-AGILEX7
 
-# This repository contains sourcecode for the AGILEX AI Pipeline.
+# C-Code
 
 ## 1 - Image_streaming_App
 
