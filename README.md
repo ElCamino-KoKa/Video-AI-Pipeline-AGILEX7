@@ -19,7 +19,7 @@ Removed Code dedicated to simulating the streaming aplication, added some debugg
 
 # Verilog Code
 
-## 3.1 - Component
+## 3.1 - Bridge Component
 
 Functionality:
 
