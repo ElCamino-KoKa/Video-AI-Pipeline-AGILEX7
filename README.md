@@ -5,6 +5,7 @@
 ## 1.1 - Image_streaming_App
 
 Changes to original Version: 
+
 	* Removed Code dedicated to simulating the streaming aplication
 	* Added /sys/mem acces to Verilog streaming component
 	* Added prototypes for sending images in full speed or fixed frequency
@@ -21,6 +22,7 @@ Removed Code dedicated to simulating the streaming aplication, added some debugg
 ## 3.1 - Component
 
 Functionality:
+
 	* Bridge between HDMI input and AI Design
 	* Receiving messages from embedded Linux 
 	* See the Status register definition for possible messages
@@ -36,6 +38,7 @@ feel free to contact me if you have any issues or file a bug-report*
 # Others
 
 Important information:
+
 	* The tx_control software needs to be rebuilt after hardware changes
 	* Hardware issues might result from **IP Versions!**
 	* After uploading app-data to Yocto, a restart of the board is mandatory
