@@ -1,0 +1,9 @@
+/home/korbi/coredla_work/runtime/streaming/streaming_app/CMakeFiles/new_streaming_app.dir
+/home/korbi/coredla_work/runtime/streaming/streaming_app/CMakeFiles/edit_cache.dir
+/home/korbi/coredla_work/runtime/streaming/streaming_app/CMakeFiles/rebuild_cache.dir
+/home/korbi/coredla_work/runtime/streaming/streaming_app/uio/CMakeFiles/uio.dir
+/home/korbi/coredla_work/runtime/streaming/streaming_app/uio/CMakeFiles/edit_cache.dir
+/home/korbi/coredla_work/runtime/streaming/streaming_app/uio/CMakeFiles/rebuild_cache.dir
+/home/korbi/coredla_work/runtime/streaming/streaming_app/layout_transform/CMakeFiles/layout_transform.dir
+/home/korbi/coredla_work/runtime/streaming/streaming_app/layout_transform/CMakeFiles/edit_cache.dir
+/home/korbi/coredla_work/runtime/streaming/streaming_app/layout_transform/CMakeFiles/rebuild_cache.dir

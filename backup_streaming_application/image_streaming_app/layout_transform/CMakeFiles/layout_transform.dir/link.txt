@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblayout_transform.a CMakeFiles/layout_transform.dir/source/LayoutTransform.o
+/usr/bin/ranlib liblayout_transform.a

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/korbi/coredla_work/runtime/streaming/streaming_inference_app/build",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -o CMakeFiles/streaming_inference_app.dir/streaming_inference_app.cpp.o -c /home/korbi/coredla_work/runtime/streaming/streaming_inference_app/streaming_inference_app.cpp",
+  "file": "/home/korbi/coredla_work/runtime/streaming/streaming_inference_app/streaming_inference_app.cpp"
+},
+{
+  "directory": "/home/korbi/coredla_work/runtime/streaming/streaming_inference_app/build",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -o CMakeFiles/streaming_inference_app.dir/command_line.cpp.o -c /home/korbi/coredla_work/runtime/streaming/streaming_inference_app/command_line.cpp",
+  "file": "/home/korbi/coredla_work/runtime/streaming/streaming_inference_app/command_line.cpp"
+}
+]

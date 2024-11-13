@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/image_streaming_app.dir/command_line.o CMakeFiles/image_streaming_app.dir/image_streaming_app.o CMakeFiles/image_streaming_app.dir/raw_image.o CMakeFiles/image_streaming_app.dir/bmp_file.o -o image_streaming_app  layout_transform/liblayout_transform.a uio/libuio.a 

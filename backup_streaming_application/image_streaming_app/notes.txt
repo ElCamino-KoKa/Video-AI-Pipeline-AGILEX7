@@ -1,0 +1,4 @@
+0b00000000: led off, pause
+0b00000001: led on, pause
+0b00000010: led blinking slow, no pause
+0b00000011: led blinking fast, no pause
