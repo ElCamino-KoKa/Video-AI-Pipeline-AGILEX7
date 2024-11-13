@@ -30,6 +30,7 @@ Functionality:
 ## 3.2 - Simulation Component
 
 Used for Simulating the Component and Dataflow
+
 *Please See the Thesis .pdf to understand the full simulation flow.*
 
 *Note: Some of the code might not be Bug-free!
@@ -40,7 +41,7 @@ feel free to contact me if you have any issues or file a bug-report*
 Important information:
 
 	* The tx_control software needs to be rebuilt after hardware changes
-	* Hardware issues might result from **IP Versions!**
+	* Hardware issues might result from IP Versions!
 	* After uploading app-data to Yocto, a restart of the board is mandatory
 	* Starting sequence is relevant -> see thesis 
 	
