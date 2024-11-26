@@ -44,6 +44,7 @@ Important information:
 	* Hardware issues might result from IP Versions!
 	* After uploading app-data to Yocto, a restart of the board is mandatory
 	* Starting sequence is relevant -> see thesis 
-	
+
+Legal Disclaimer: None of the published code is approved for commercial use or distribution unless written approval is provided by ElCamino GmbH and Intel Altera
 
 
