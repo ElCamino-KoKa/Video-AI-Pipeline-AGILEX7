@@ -24,12 +24,12 @@ Use dd equivalent like Rufus
 
 # 2. Starting the Application
 **Every step has to be executed in this exact order**
-## 2.1 Power up and connect the Board
+## 2.1 Connect the Board and afterwards power up
 Connections: USB Type B (Host PC &rarr; Board), Micro USB (OOBE14 Daughtercard), Ethernet (Host PC &rarr; Board), Source &rarr; HDMI In, HDMI out &rarr; Monitor
 ## 2.2 Program the clock generators with Clock controller GUI
 Tab SI5391B &rarr; set all clocks to 100 MHz &rarr; Confirm with button **set** &rarr; Close application
 ## 2.3 Program the FPGA with .sof image
-
+Using the .jic and AS mode does not work!
 ```
 quartus_pgm -m jtag -o "p;u-boot-spl-dtb.hex.sof@1"
 ```

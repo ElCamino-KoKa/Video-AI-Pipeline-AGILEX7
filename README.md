@@ -17,24 +17,28 @@ Changes to original Version:
 Removed Code dedicated to simulating the streaming aplication, added some debugging messages
 
 
-# Verilog Code
-
-## 3.1 - Bridge Component
+# 2. Verilog Code -Bridge Component
 
 Functionality:
+- Bridge between HDMI input and AI Design
+- Receiving messages from embedded Linux 
+- See the Status register definition for possible messages
 
-	* Bridge between HDMI input and AI Design
-	* Receiving messages from embedded Linux 
-	* See the Status register definition for possible messages
+# 3. Quartus Project
 
-## 3.2 - Simulation Component
+# 4. Programming Files
 
-Used for Simulating the Component and Dataflow
+- SD-Card image
+- sof File for FPGA
+- original streaming inference app (ed4 root)
 
-*Please See the Thesis .pdf to understand the full simulation flow.*
 
-*Note: Some of the code might not be Bug-free!
-feel free to contact me if you have any issues or file a bug-report*
+# TODO
+- merge application files with programming files &rarr; no separate upload is needed
+- automate clock controller programming upon startup to simplify sequence
+- improve application software: support Yolo results
+- Improve hardware: achieve flexibility in bridge component for different models
+- Extend functionality: draw overlays in hdmi output
 
 # Others
 
